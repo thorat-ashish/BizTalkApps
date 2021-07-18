@@ -1,0 +1,6 @@
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\bin\Debug\BTApp01.dll
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\bin\Debug\BTApp01.pdb
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\obj\Debug\BTApp01.btprojAssemblyReference.cache
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\obj\Debug\BTApp01.btproj.CoreCompileInputs.cache
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\obj\Debug\BTApp01.dll
+C:\Users\thoraash\Documents\OneDrive - TietoEVRY\Bk\AT_Work\code\BT\BTApp01\BTApp01\obj\Debug\BTApp01.pdb
