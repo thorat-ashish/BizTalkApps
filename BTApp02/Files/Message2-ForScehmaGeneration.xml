@@ -1,0 +1,12 @@
+<PO>
+  <Customer FirstName="Ashish" LastName="Thorat" EmailAddress="ashish.thorat@microsoft.com" PhoneNumber="987-654-3210" />
+  <Address>
+    <Street>1234 MG Road</Street>
+    <City>Pune</City>
+    <State>MH</State>
+    <Zip>411001</Zip>
+  </Address>
+  <Items>
+    <Item SKU="123456789" Description="Tea Cup" />
+  </Items>
+</PO>
