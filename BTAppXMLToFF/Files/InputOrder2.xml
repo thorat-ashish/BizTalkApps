@@ -1,0 +1,8 @@
+<ns0:CustomerOrder xmlns:ns0="http://BTAppXMLToFF.InputOrderSchema">
+  <CustomerInfo>
+    <FirstName>Rahul</FirstName>
+    <LastName>More</LastName>
+    <Phone>8212563</Phone>
+  </CustomerInfo>
+  <OrderDetails />
+</ns0:CustomerOrder>
