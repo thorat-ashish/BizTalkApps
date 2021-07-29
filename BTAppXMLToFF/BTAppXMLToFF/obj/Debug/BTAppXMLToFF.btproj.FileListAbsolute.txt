@@ -1,0 +1,6 @@
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\bin\Debug\BTAppXMLToFF.dll
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\bin\Debug\BTAppXMLToFF.pdb
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\obj\Debug\BTAppXMLToFF.btproj.AssemblyReference.cache
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\obj\Debug\BTAppXMLToFF.btproj.CoreCompileInputs.cache
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\obj\Debug\BTAppXMLToFF.dll
+C:\BT\BTAppXMLToFF\BTAppXMLToFF\obj\Debug\BTAppXMLToFF.pdb
